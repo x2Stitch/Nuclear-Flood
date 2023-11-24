@@ -20,7 +20,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://github.com/Xvirus-Team/xvirus-tools">
+  <a href="https://discord.gg/HFvska6UTZ">
     <img src="[https://xvirus.lol/xicon.png](https://media.discordapp.net/attachments/944805030161170502/1176167251339116655/White_Orange_Modern_N_Alphabet_Tech_Business_Logo_1.png)" alt="Logo" width="80" height="80">
   </a>
 
