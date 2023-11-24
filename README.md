@@ -40,4 +40,4 @@
 ## ตัวอย่างการใช้งาน?
 
 #### ภาพประกอบ
-![overview-preview](https://media.discordapp.net/attachments/1176389873066844231/1177456414466244648/image.png)
+![bots-preview](https://github.com/the-cult-of-integral/discord-raidkit/assets/98130822/beead659-79fd-471d-937b-f5c8151d366a)
