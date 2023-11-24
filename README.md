@@ -19,11 +19,7 @@
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
 
-[![PRs Welcome](https://img.shields.io/badge/downloads-nuclear-flood)
-![GitHub issues](https://img.shields.io/github/issues/the-cult-of-integral/discord-raidkit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/9P9/Discord-QR-Token-Logger)
-![Maintenance](https://img.shields.io/maintenance/yes/2023)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/the-cult-of-integral/discord-raidkit)
+![Verstion](https://img.shields.io/badge/verstion-2.0.0-flood)
 
 **Nuclear-Flood** เป็นเครื่องมือ exe ที่ต้องทำการซื้อ เพื่อช่วยให้คุณโจมตีและทำลายเซิร์ฟเวอร์ Discord ผ่านบอท Api Discord
 
