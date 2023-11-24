@@ -19,7 +19,7 @@
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/downloads-nuclear-flood)
 ![GitHub issues](https://img.shields.io/github/issues/the-cult-of-integral/discord-raidkit)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/9P9/Discord-QR-Token-Logger)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023)
