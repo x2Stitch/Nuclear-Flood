@@ -24,25 +24,20 @@
     <img src="https://media.discordapp.net/attachments/944805030161170502/1176167251339116655/White_Orange_Modern_N_Alphabet_Tech_Business_Logo_1.png?ex=656de21c&is=655b6d1c&hm=c7175848a1a471ef5ddfd5492a8451b680fcf926ddbe910da998fec9801ee27c&=&format=webp&width=577&height=577" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">[API-Tool]- XVirus</h3>
+  <h3 align="center">[Flood]- NuclearStore</h3>
 
   <p align="center">
-    Xvirus-Tools is a discord API script that takes advantage of Discords WEAK API
+    ⚠️ **โปรแกรมทำร้ายเซิฟเวอร์ Discord / สแปมข้อความSMS**
     <br/>
     <br/>
-    <a href="https://discord.gg/xvirustool">Discord</a>
-    .
-    <a href="https://xvirus.lol/showcase.mp4">Sowcase</a>
+    <a href="https://discord.gg/HFvska6UTZ">Discord</a>
+    ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+    ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
   </p>
 </p>
 
 <p align="center">
-  <img alt="Downloads" src="https://img.shields.io/github/downloads/Xvirus-Team/xvirus-tools/total">
-  <img alt="Contributors" src="https://img.shields.io/github/contributors/Xvirus-Team/xvirus-tools?color=dark-green">
-  <img alt="Forks" src="https://img.shields.io/github/forks/Xvirus-Team/xvirus-tools?style=social">
-  <img alt="Stargazers" src="https://img.shields.io/github/stars/Xvirus-Team/xvirus-tools?style=social">
-  <img alt="Issues" src="https://img.shields.io/github/issues/Xvirus-Team/xvirus-tools">
-  <img alt="License" src="https://img.shields.io/github/license/Xvirus-Team/xvirus-tools">
+  <img alt="Downloads" src="https://cdn.discordapp.com/attachments/1176389873066844231/1177460611530104882/Nuclear_Flood.zip">
 </p>
 
 <p align="center">
