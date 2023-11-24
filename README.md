@@ -18,7 +18,7 @@
 
 **Nuclear-Flood** เป็นเครื่องมือ exe ที่ต้องทำการซื้อ เพื่อช่วยให้คุณโจมตีและทำลายเซิร์ฟเวอร์ Discord ผ่านบอท Api Discord
 
-![Discord Raidkit v2.4.4 Console]([https://user-images.githubusercontent.com/98130822/235321378-f624a5ba-5ff6-4f80-b37e-8a1691724c53.png))
+![Discord Raidkit v2.4.4 Console]([[https://user-images.githubusercontent.com/98130822/235321378-f624a5ba-5ff6-4f80-b37e-8a1691724c53.png](https://media.discordapp.net/attachments/1176389873066844231/1177453236265947166/image.png?ex=65728fc7&is=65601ac7&hm=47920de9d24f4403626acaaf0f2f02fe885a029f6ad438f316a9121062aef3d6&=&format=webp&width=798&height=577)))
 
 ## คำชี้แจง 🔧
 
