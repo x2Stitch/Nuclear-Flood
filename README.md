@@ -1,23 +1,3 @@
-# Nuclear Flood
-⚠️ **โปรแกรมทำร้ายเซิฟเวอร์ Discord / สแปมข้อความSMS**
-
-โปรแกรมนี้สร้างมาเพื่อให้ใช้งานในสิ่งที่ชั่วร้ายอยู่แลัว
-
-**การใช้โปรแกรมนี้แสดงว่าคุณยอมรับว่าฉันไม่รับผิดชอบต่อการใช้งานโปรแกรมนี้ของคุณ.**
-
----
-
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
-![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
-![GitHub issues](https://img.shields.io/github/issues/the-cult-of-integral/discord-raidkit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/9P9/Discord-QR-Token-Logger)
-![Maintenance](https://img.shields.io/maintenance/yes/2023)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/the-cult-of-integral/discord-raidkit)
-
-**Nuclear-Flood** เป็นเครื่องมือ exe ที่ต้องทำการซื้อ เพื่อช่วยให้คุณโจมตีและทำลายเซิร์ฟเวอร์ Discord ผ่านบอท Api Discord
-
 <br/>
 <p align="center">
   <a href="https://github.com/Xvirus-Team/xvirus-tools">
@@ -36,18 +16,24 @@
   </p>
 </p>
 
-<p align="center">
-  <img alt="Downloads" src="https://cdn.discordapp.com/attachments/1176389873066844231/1177460611530104882/Nuclear_Flood.zip">
-</p>
+⚠️ **โปรแกรมทำร้ายเซิฟเวอร์ Discord / สแปมข้อความSMS**
 
-<p align="center">
-  <a href="https://discord.gg/xvirustool">
-    <img alt="Discord" src="https://img.shields.io/discord/1146496916419526727?label=&logo=discord&logoColor=ffffff&color=C50F1f&labelColor=C50F1f">
-  </a>
-  <a href="https://www.codefactor.io/repository/github/xvirus-team/xvirus-tools">
-    <img src="https://www.codefactor.io/repository/github/xvirus-team/xvirus-tools/badge" alt="CodeFactor" />
-  </a>
-</p>
+โปรแกรมนี้สร้างมาเพื่อให้ใช้งานในสิ่งที่ชั่วร้ายอยู่แลัว
+
+**การใช้โปรแกรมนี้แสดงว่าคุณยอมรับว่าฉันไม่รับผิดชอบต่อการใช้งานโปรแกรมนี้ของคุณ.**
+
+---
+
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
+![GitHub issues](https://img.shields.io/github/issues/the-cult-of-integral/discord-raidkit)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/9P9/Discord-QR-Token-Logger)
+![Maintenance](https://img.shields.io/maintenance/yes/2023)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/the-cult-of-integral/discord-raidkit)
+
+**Nuclear-Flood** เป็นเครื่องมือ exe ที่ต้องทำการซื้อ เพื่อช่วยให้คุณโจมตีและทำลายเซิร์ฟเวอร์ Discord ผ่านบอท Api Discord
 
 ![Discord Nuclear Flood v2.0.0 Console](https://media.discordapp.net/attachments/1176389873066844231/1177453236265947166/image.png)
 
