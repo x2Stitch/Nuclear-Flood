@@ -40,4 +40,5 @@
 ## ตัวอย่างการใช้งาน?
 
 #### ภาพประกอบ
-![bots-preview]([https://github.com/the-cult-of-integral/discord-raidkit/assets/98130822/beead659-79fd-471d-937b-f5c8151d366a](https://media.discordapp.net/attachments/1176389873066844231/1177456414466244648/image.png?ex=657292bd&is=65601dbd&hm=2f6235d0a344eb9d013356bdedfa5b17fd5bb973809a32bb5f511b996fbfbe82&=&format=webp&width=1176&height=573)https://media.discordapp.net/attachments/1176389873066844231/1177456414466244648/image.png?ex=657292bd&is=65601dbd&hm=2f6235d0a344eb9d013356bdedfa5b17fd5bb973809a32bb5f511b996fbfbe82&=&format=webp&width=1176&height=573)
+
+![bots-preview](![bots-preview](https://media.discordapp.net/attachments/1176389873066844231/1177456414466244648/image.png))
