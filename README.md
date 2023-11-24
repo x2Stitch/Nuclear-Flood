@@ -46,4 +46,4 @@
 
 #### ภาพประกอบ
 
-[![bots-preview](https://media.discordapp.net/attachments/1176389873066844231/1177456414466244648/image.png)
+![bots-preview](https://media.discordapp.net/attachments/1176389873066844231/1177456414466244648/image.png)
