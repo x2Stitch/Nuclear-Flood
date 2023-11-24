@@ -18,6 +18,42 @@
 
 **Nuclear-Flood** เป็นเครื่องมือ exe ที่ต้องทำการซื้อ เพื่อช่วยให้คุณโจมตีและทำลายเซิร์ฟเวอร์ Discord ผ่านบอท Api Discord
 
+<br/>
+<p align="center">
+  <a href="https://github.com/Xvirus-Team/xvirus-tools">
+    <img src="https://xvirus.lol/xicon.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">[API-Tool]- XVirus</h3>
+
+  <p align="center">
+    Xvirus-Tools is a discord API script that takes advantage of Discords WEAK API
+    <br/>
+    <br/>
+    <a href="https://discord.gg/xvirustool">Discord</a>
+    .
+    <a href="https://xvirus.lol/showcase.mp4">Sowcase</a>
+  </p>
+</p>
+
+<p align="center">
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/Xvirus-Team/xvirus-tools/total">
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/Xvirus-Team/xvirus-tools?color=dark-green">
+  <img alt="Forks" src="https://img.shields.io/github/forks/Xvirus-Team/xvirus-tools?style=social">
+  <img alt="Stargazers" src="https://img.shields.io/github/stars/Xvirus-Team/xvirus-tools?style=social">
+  <img alt="Issues" src="https://img.shields.io/github/issues/Xvirus-Team/xvirus-tools">
+  <img alt="License" src="https://img.shields.io/github/license/Xvirus-Team/xvirus-tools">
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/xvirustool">
+    <img alt="Discord" src="https://img.shields.io/discord/1146496916419526727?label=&logo=discord&logoColor=ffffff&color=C50F1f&labelColor=C50F1f">
+  </a>
+  <a href="https://www.codefactor.io/repository/github/xvirus-team/xvirus-tools">
+    <img src="https://www.codefactor.io/repository/github/xvirus-team/xvirus-tools/badge" alt="CodeFactor" />
+  </a>
+</p>
+
 ![Discord Nuclear Flood v2.0.0 Console](https://media.discordapp.net/attachments/1176389873066844231/1177453236265947166/image.png)
 
 ## คำชี้แจง 🔧
