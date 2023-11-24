@@ -21,10 +21,10 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Xvirus-Team/xvirus-tools">
-    <img src="https://xvirus.lol/xicon.png" alt="Logo" width="80" height="80">
+    <img src="[https://xvirus.lol/xicon.png](https://media.discordapp.net/attachments/944805030161170502/1176167251339116655/White_Orange_Modern_N_Alphabet_Tech_Business_Logo_1.png)" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">[API-Tool]- XVirus</h3>
+  <h3 align="center">Nuclear Flood</h3>
 
   <p align="center">
     Xvirus-Tools is a discord API script that takes advantage of Discords WEAK API
